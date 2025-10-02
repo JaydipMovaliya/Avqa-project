@@ -1,0 +1,478 @@
+Category&VideoID&Quality&StartTime&EndTime
+Violin, fiddle&-61v0b2F21A&good&0&10
+Violin, fiddle&-8t1Nj0WSag&good&0&10
+Violin, fiddle&-EfnqyyqHuI&good&0&10
+Violin, fiddle&-JGD51XS0fE&good&0&7
+Violin, fiddle&-jqZNKleebI&good&0&10
+Violin, fiddle&0KtFutA2J1M&good&0&4
+Violin, fiddle&-XJ1i40XSIw&good&0&10
+Violin, fiddle&04eh7k5xv9A&good&0&10
+Violin, fiddle&-IsuouQLfPI&good&0&10
+Violin, fiddle&-QotwZFNJ9Q&good&0&10
+Violin, fiddle&0XMWF5n00ss&good&0&10
+Violin, fiddle&-9yzrE2qMUw&good&0&10
+Violin, fiddle&-RRCnBd5Qak&good&0&10
+Violin, fiddle&-Rr7pnVemdc&good&0&10
+Violin, fiddle&-J1udlCxfrk&good&0&10
+Violin, fiddle&-X9bMbQzn7E&good&0&10
+Violin, fiddle&--iY3Bf4hDg&good&0&10
+Violin, fiddle&-VPnsBcOq7U&good&0&10
+Violin, fiddle&-sTWUmy-25w&good&0&10
+Violin, fiddle&-LIq9pGlnTY&good&0&10
+Violin, fiddle&-tQ_wuruRB4&good&0&10
+Violin, fiddle&-Ggoa1lqzRg&good&0&10
+Violin, fiddle&-rdwJtcERb4&good&0&10
+Violin, fiddle&083JHGTpL2U&good&0&10
+Violin, fiddle&-Xpu_47M8dE&good&0&6
+Violin, fiddle&-OuFhaw1uFA&good&0&10
+Violin, fiddle&-fqWzXRXP7M&good&0&10
+Violin, fiddle&-6Cd_Prg5Uw&good&2&10
+Violin, fiddle&08TjRVfGDqQ&good&0&10
+Violin, fiddle&-9gh1z9_aEM&good&0&10
+Violin, fiddle&-yPVxHKyqZM&good&0&10
+Violin, fiddle&0XXfS3LWkRg&good&0&10
+Violin, fiddle&-G9X4ZlzHTQ&good&7&10
+Violin, fiddle&-jUK_B8VjcM&good&1&10
+Violin, fiddle&08EE7Zv2Gf4&good&0&10
+Violin, fiddle&0U0uwSntM14&good&1&10
+Violin, fiddle&-TpU0J8vOlk&good&0&10
+Violin, fiddle&-t25VKop7dg&good&0&10
+Violin, fiddle&-ZQw6V4dT1o&good&0&10
+Violin, fiddle&-AbnGnFITGM&good&0&10
+Violin, fiddle&-3yHOCvKOaQ&good&0&10
+Violin, fiddle&-hcOpvKXsMI&good&0&10
+Violin, fiddle&0TWd6DwQRoQ&good&0&10
+Violin, fiddle&0ODqviTw47E&good&0&10
+Violin, fiddle&090RykWGyM8&good&0&10
+Violin, fiddle&-d_sRt95HmY&good&0&10
+Violin, fiddle&-0oSwiPKEj8&good&0&10
+Violin, fiddle&0UNYovC8n9g&good&0&10
+Violin, fiddle&-2Z4tIHnFOY&good&0&10
+Violin, fiddle&-PljzzluWNw&good&0&10
+Violin, fiddle&0WNy38Xx3kc&good&0&10
+Violin, fiddle&-_JY_gVLNNQ&good&0&10
+Violin, fiddle&0IAWblvBM7k&good&0&10
+Violin, fiddle&05RY2-9-hXU&good&0&10
+Violin, fiddle&0KKDRvBdWsE&good&0&10
+Violin, fiddle&0NrmVMah5nU&good&0&10
+Violin, fiddle&-UYecGJqgBg&good&0&6
+Violin, fiddle&-nUmTcz7dgQ&good&0&10
+Violin, fiddle&-lyAiroSiIs&good&0&10
+Violin, fiddle&-odIm2rNR5M&good&0&10
+Violin, fiddle&0FYLEr64xxU&good&0&10
+Violin, fiddle&0ONazqtTC-4&good&0&10
+Violin, fiddle&06dCAQutFeI&good&0&10
+Violin, fiddle&-huGQE06qqM&good&0&10
+Violin, fiddle&0CzNTEBCTds&good&0&10
+Violin, fiddle&-skRBLEnyW4&good&2&7
+Violin, fiddle&-QR7nHlMqhc&good&0&10
+Violin, fiddle&0Gd5jNxWRTM&good&0&10
+Violin, fiddle&-lzqscBFCxA&good&5&7
+Violin, fiddle&0ShszGF-93I&good&0&3
+Flute&-UVOFRthq_c&good&0&10
+Flute&0fB1C972a9s&good&0&10
+Flute&03NQmCrlsyY&good&0&10
+Flute&2CP8TX5HzeU&good&0&10
+Flute&18_CQWcNHr0&good&0&10
+Flute&-oGtiSwccH0&good&0&10
+Flute&-8euC6mQGck&good&0&10
+Flute&1JuleRQgmRo&good&0&10
+Flute&-nkcTTWWn2g&good&0&10
+Flute&0gB3liqZO3Y&good&0&10
+Flute&02rnKVawh0E&good&0&10
+Flute&0mAJOcH2T_Q&good&0&10
+Flute&0GUI0mNURGk&good&0&10
+Flute&-gtGMV1jQNc&good&0&10
+Flute&2EjcbMVMaz4&good&0&10
+Flute&1Q0La5XzFq4&good&0&10
+Flute&-A3b9tZs-eE&good&0&10
+Flute&0XREe1fQLHY&good&0&10
+Flute&-yGno5_ywmA&good&0&10
+Flute&2Bm3Zpeo2JY&good&0&10
+Flute&0d2eiDp3N5k&good&0&10
+Flute&-Mw6aR_FTk0&good&0&10
+Flute&1v4yttojmSI&good&0&10
+Flute&0nF7-MpTtGU&good&0&10
+Flute&0P8acnEXs0Q&good&0&10
+Flute&1-MTST2LHvI&good&0&10
+Flute&-4TJHvjsYrE&good&0&10
+Flute&-GK0GKqrr5c&good&0&10
+Flute&18EtDBfPK_I&good&0&10
+Flute&2JIQ5CHGhn8&good&0&10
+Flute&-h7I-CCgCbQ&good&0&10
+Flute&0BvEqduxKS0&good&0&10
+Flute&0g5nE-8EevA&good&0&10
+Flute&0DPGYHI0VAY&good&0&10
+Flute&-x6okg0mltw&good&0&10
+Flute&-E1Vroh3yh0&good&0&10
+Flute&1Uy5_ZcBqXY&good&0&10
+Flute&2ADAPGLJJzk&good&0&10
+Flute&0466MKJ7tQk&good&0&10
+Flute&014wEN3qV1E&good&0&10
+Flute&-mHbsc2gctI&good&0&10
+Flute&2GLyeRlmagA&good&0&10
+Flute&-YY2Y0PRp-4&good&0&10
+Flute&-_JY_gVLNNQ&good&0&10
+Flute&-1UKhxopZpk&good&0&10
+Flute&-YmTTXFmlq8&good&0&10
+Flute&1VAkPqd10bg&good&0&10
+Flute&0BeK2AbDt3M&good&0&10
+Flute&-PP5Hx17amY&good&0&10
+Flute&-Fk62y-1WHo&good&0&10
+Flute&20heCbODoEQ&good&0&10
+Flute&-4Y0LjkowqY&good&0&10
+Flute&0-I1-DOC-r8&good&0&10
+Flute&-uwEUd-C0bQ&good&0&10
+Flute&2BjUyKgD-8w&good&0&10
+Flute&-EZa50z-sqw&good&0&10
+Flute&1sjmFJzDG0o&good&0&10
+Flute&0IJtUPRU6BY&good&0&10
+Flute&-HpCjiutVuE&good&4&10
+Flute&00rzcEOCB5U&good&0&10
+Flute&-jHHCTHxDp4&good&0&10
+Flute&0Yk2jwVJCjk&good&0&10
+Flute&-w6CrjqhlfU&good&0&10
+Flute&11sQB4lQ-VU&good&0&10
+Flute&0KmQB2IFeh8&good&0&10
+Flute&-y1Pkp5n1Ak&good&0&10
+Flute&1e-wZqDtiAM&good&0&10
+Flute&0McmdH07r7w&good&0&10
+Flute&1YAwus2Z5CY&good&0&5
+Flute&-VMucqAakNE&good&0&10
+Flute&0N4yv1wNM5Y&good&0&10
+Flute&04jso9gS26M&good&0&10
+Flute&0bgXSHa41o4&good&0&10
+Flute&-lfNkn9lZt4&good&0&10
+Flute&-CXPQTCphQE&good&0&10
+Flute&1oUnMi52e9Q&good&5&10
+Flute&1mhn6Do2W2o&good&0&10
+Flute&1rCcmrAW9ns&good&0&10
+Flute&0biR8Pad0FQ&good&0&10
+Ukulele&-HRf0jsWypE&good&0&7
+Ukulele&19obIgE_LqM&good&0&10
+Ukulele&1ydZZWtDpz0&good&7&10
+Ukulele&1ce0pV5sgpQ&good&0&5
+Ukulele&16cpSo6bBCE&good&0&10
+Ukulele&1L8VgRiLyIc&good&0&10
+Ukulele&-ydzVCB1oNg&good&0&10
+Ukulele&0YEjsePnwAQ&good&0&10
+Ukulele&-5-B95D085I&good&0&10
+Ukulele&1hZV-4QbK38&good&0&10
+Ukulele&0RiQLalc7pc&good&0&10
+Ukulele&1liv1kZx8qM&good&0&10
+Ukulele&-XvNSVqRNHU&good&0&10
+Ukulele&-lFg_rp6QkA&good&0&10
+Ukulele&1sSJ0VII-4s&good&0&10
+Ukulele&0dM1cnXTFEM&good&0&10
+Ukulele&-_hc8mN17g4&good&0&10
+Ukulele&23Tdr37Ko-U&good&0&10
+Ukulele&-F5wSJwBZjU&good&3&10
+Ukulele&0WO9VM3BLNk&good&0&10
+Ukulele&-9Icd-D57Yo&good&0&10
+Ukulele&-rTKkq7PvjA&good&0&10
+Ukulele&1E3Uqu74Mv4&good&0&10
+Ukulele&-wwLSHIxjt4&good&0&10
+Ukulele&-1qyr-IzqKY&good&0&10
+Ukulele&-1oiBXgssuE&good&0&10
+Ukulele&0XGEabNAap4&good&0&10
+Ukulele&05X04m1TyeA&good&0&10
+Ukulele&-gREEONxBkk&good&0&10
+Ukulele&0m233BH8qu0&good&0&10
+Ukulele&-lStxlbxQMo&good&0&10
+Ukulele&-aj3JtccrDI&good&0&10
+Ukulele&-MKm0TPhKaA&good&0&10
+Ukulele&28bKSi6GCfE&good&0&10
+Ukulele&-uBucuEllR4&good&0&10
+Ukulele&1lkzwa4iSmk&good&0&10
+Ukulele&16eUxQwxxbs&good&0&10
+Ukulele&1_xD_7mK7_0&good&0&10
+Ukulele&0DVDTCjpZwQ&good&0&10
+Ukulele&0QqK0U5u2HQ&good&0&10
+Ukulele&-RZ7_2sErXo&good&0&10
+Ukulele&-riA9LdxG5k&good&0&10
+Ukulele&-8uiE24x91w&good&0&10
+Ukulele&-YNQnkHBARs&good&0&10
+Ukulele&2Y7qqDpdmok&good&0&10
+Ukulele&2gTs8EasBMU&good&0&10
+Ukulele&1zTYiYCegfg&good&0&10
+Ukulele&2BNnBRomt2k&good&0&10
+Ukulele&07Pzrop9-6k&good&0&10
+Ukulele&2qVuxENcRvw&good&0&10
+Ukulele&1cwRmll7fsc&good&0&10
+Ukulele&2_PLS-BBdEA&good&0&10
+Ukulele&0FzRCRTeyMQ&good&0&10
+Ukulele&-q2paSVuDuQ&good&0&10
+Ukulele&-NKHrtkWz_U&good&0&10
+Shofar&NF3M5beSlyM&good&0&10
+Shofar&fR1xYEILoPw&good&0&10
+Shofar&CW4rsibJdlM&good&0&10
+Shofar&BgmQCN0MQD4&good&0&10
+Shofar&cgR_NaxOFko&good&8&10
+Shofar&Q6DKKTDCi1U&good&0&10
+Shofar&Xoz7A7C6-a8&good&0&10
+Shofar&dAcYOigmG88&good&0&10
+Shofar&j5qt-8q-LOw&good&0&10
+Shofar&SV-TQEyCOK8&good&0&10
+Shofar&rKGizeiNwi0&good&0&10
+Shofar&j3vGopca9XU&good&8&10
+Shofar&gKWFm80IP0Q&good&0&10
+Shofar&-9LmMF6IHmY&good&0&3
+Shofar&eWrGKYS0TUY&good&0&3
+Shofar&jWapp2yk1B8&good&0&10
+Shofar&qbtinSIsPfU&good&0&10
+Shofar&Ky_bMgJt9cU&good&0&10
+Shofar&TEy5H1Pe7ck&good&0&10
+Shofar&RxLNDhT6uhU&good&0&10
+Shofar&FW5gyqVpedw&good&0&10
+Shofar&zdNnq7fe-oY&good&6&10
+Shofar&E8xP0lo8cx8&good&0&10
+Shofar&mCx4aM2afDI&good&0&10
+Shofar&LXroS71nkNk&good&0&10
+Shofar&Rdvy_TVhvho&good&0&10
+Shofar&2PfBt_cK07o&good&0&10
+Shofar&oOJ_jc61nD4&good&0&10
+Shofar&bVhz9R6Mgrc&good&0&4
+Shofar&x6f0yu_JzsE&good&0&10
+Shofar&3NHJUkdHwtA&good&0&10
+Shofar&6dT50gS1luc&good&0&10
+Shofar&NLuzDn-xrgQ&good&0&10
+Shofar&sfyd3WX2OjE&good&0&10
+Shofar&I6m2D0_K9tE&good&0&10
+Shofar&csntczRbWvw&good&4&10
+Shofar&pZHiz-meYow&good&6&10
+Shofar&yuFxx4JRdNg&good&6&10
+Shofar&yRnEzQHqsOw&good&6&10
+Shofar&weKt0KjakLI&good&0&10
+Shofar&WE5ZhKSq90Q&good&0&10
+Shofar&6iefuGEvlHI&good&0&10
+Shofar&etUOhOzhZ-c&good&0&10
+Shofar&eIARd5TSWBQ&good&8&10
+Shofar&TVUQoCs9fQk&good&8&10
+Shofar&rjsuq0kQqGQ&good&0&10
+Shofar&BoU_tWjVDn8&good&7&10
+Shofar&f23LMB_tVEo&good&0&8
+Shofar&1mJRKAD0O-M&good&0&5
+Shofar&wibPUdEs6K8&good&3&10
+Shofar&uqsmyaFwY9k&good&0&10
+Shofar&RF3nBIOPpyc&good&0&10
+Shofar&NXQGt6CC1tc&good&0&10
+Shofar&BLnaG5Fho44&good&0&10
+Shofar&DLaS3WZdRNw&good&0&10
+Shofar&vzUOlGTZpy8&good&0&10
+Acoustic guitar&-6WEyprpIdQ&good&0&5
+Acoustic guitar&-8E4IvhlJ3I&good&0&3
+Acoustic guitar&-8lqS7ieWmc&good&0&10
+Acoustic guitar&-3TA9Fns4rA&good&0&10
+Acoustic guitar&-6tJgFlNo-c&good&0&10
+Acoustic guitar&-BEsuk8TTPs&good&0&10
+Acoustic guitar&-11GfJ6UFV8&good&0&10
+Acoustic guitar&-D7MLPP0GQQ&good&0&10
+Acoustic guitar&-ENQiyOIcrc&good&0&10
+Acoustic guitar&-CHSusoQX3g&good&0&10
+Acoustic guitar&-AczMkg9mCg&good&0&10
+Acoustic guitar&-FkIhQI7TbA&good&0&10
+Acoustic guitar&-5j92zqG-Mw&good&0&10
+Acoustic guitar&-Fduahpgt8I&good&0&10
+Acoustic guitar&-6YsD3SetJc&good&0&10
+Acoustic guitar&-D0zH6poZbY&good&0&10
+Acoustic guitar&-F5wSJwBZjU&good&3&10
+Acoustic guitar&-2TjevpJuAs&good&0&10
+Acoustic guitar&-E7Q8Z2w5pA&good&0&10
+Acoustic guitar&-4WioONkd78&good&0&10
+Acoustic guitar&-0pPRv4nAWM&good&0&10
+Acoustic guitar&-AaLDAoJO14&good&0&10
+Acoustic guitar&-1WgjQJ8ZqQ&good&0&10
+Acoustic guitar&-2RgOtEurSs&good&0&10
+Acoustic guitar&-44qKBR8bGQ&good&0&10
+Acoustic guitar&-4fL8AMnGQ4&good&0&10
+Acoustic guitar&-4ELUORuKtk&good&0&10
+Acoustic guitar&-9_fvHnpkmo&good&0&10
+Acoustic guitar&-BmlgYVs6A0&good&0&10
+Acoustic guitar&-FWb_Uy72CU&good&0&10
+Acoustic guitar&-A7_Doj8A9g&good&0&10
+Acoustic guitar&-CMUF8xpFig&good&0&10
+Acoustic guitar&-1Cc2sNYNIs&good&0&10
+Acoustic guitar&-EzgXKfh5Go&good&0&10
+Acoustic guitar&-GlmbrP1Pn0&good&0&10
+Acoustic guitar&-Eyx2KSY5As&good&0&10
+Acoustic guitar&-0oPui2fiaE&good&0&10
+Acoustic guitar&-Aa_Rm8ZljI&good&0&10
+Acoustic guitar&-7qHG9aDE4I&good&0&10
+Acoustic guitar&-CsvPPK20ps&good&0&10
+Acoustic guitar&-DgW3I5yBBE&good&0&10
+Acoustic guitar&-AWrX2EIY4g&good&0&10
+Acoustic guitar&-8opyoruJSE&good&0&10
+Banjo&-W4EC8noDuw&good&0&10
+Banjo&3yoo27Wb02M&good&0&10
+Banjo&61CT5w_Bbfc&good&0&10
+Banjo&2wME2IbkbOY&good&0&10
+Banjo&7DYqi_JU6gw&good&0&10
+Banjo&6m5AkQNUrsU&good&0&10
+Banjo&-9xKC8r1Ww0&good&0&10
+Banjo&4Kq8Hdz4TBQ&good&0&10
+Banjo&6vwAcL1eZac&good&0&10
+Banjo&3dbYLO6rYrI&good&0&10
+Banjo&4-AQAJIOLuM&good&0&10
+Banjo&4umEvJi2rRE&good&0&10
+Banjo&6l1qTc3GiBg&good&0&10
+Banjo&-nXyb1Fakjg&good&0&10
+Banjo&0G2C2jrNbak&good&0&10
+Banjo&4ESpG1obQgs&good&0&10
+Banjo&-Xr7HusAEvY&good&0&10
+Banjo&4ftnQdEaLO8&good&0&6
+Banjo&0lXPYBYtBt0&good&0&10
+Banjo&4S17Sgal57E&good&0&10
+Banjo&3LSrPiD23fI&good&0&10
+Banjo&6puZFsJvC64&good&0&10
+Banjo&5npF8GtaaNA&good&0&10
+Banjo&1bqxaEs7cs0&good&0&10
+Banjo&519276Ov9DM&good&0&10
+Banjo&-izECjXmjO4&good&0&10
+Banjo&0qMmJlVlupQ&good&0&10
+Banjo&2RC9m3ztmBg&good&0&10
+Banjo&41zDfMgINbo&good&0&10
+Banjo&4Iq0UsC_cqY&good&0&10
+Banjo&1iXKgat2Ejc&good&0&10
+Banjo&-fJyZgz9uvc&good&0&10
+Banjo&5iFpQ5mtMug&good&0&10
+Banjo&33Fcg1gc7WA&good&0&10
+Banjo&39V3dKUAjAs&good&0&10
+Banjo&1ij4byJM8ts&good&0&10
+Banjo&-E0djSiyFNI&good&0&10
+Banjo&-PljzzluWNw&good&0&10
+Banjo&7PZl6hYrQGo&good&0&10
+Banjo&1UTaPnm3tTA&good&6&10
+Banjo&-Vu8x7fsYRk&good&0&10
+Banjo&53BIo9Alu2o&good&0&10
+Banjo&0azbvZ3t2B8&good&0&10
+Banjo&0hbLwAJ5ChE&good&0&10
+Banjo&3qWfr7guPDs&good&0&10
+Banjo&3QpveQBDgv0&good&0&10
+Banjo&-RmBbZuxWmg&good&0&10
+Banjo&4UbZjOQ5vkw&good&0&10
+Banjo&-LQuCzisPK0&good&0&10
+Banjo&2RBhvoqWPeY&good&0&10
+Banjo&5xOWesepO7U&good&0&10
+Banjo&3K0ud-1Qk9c&good&0&10
+Banjo&3HCjfsCbhSg&good&0&10
+Banjo&4wIzbiihgE4&good&0&10
+Banjo&4MZ6HsL2eaE&good&0&10
+Banjo&09_uj4VbMCM&good&0&10
+Banjo&2W7k7nvGkdI&good&0&10
+Banjo&6OSEf-W1gmc&good&0&10
+Banjo&2iTo49F8QcI&good&0&10
+Banjo&2vJ4gKp_sag&good&0&10
+Banjo&05EetL8zJUs&good&0&8
+Banjo&0eYgYrenUv8&good&0&10
+Banjo&-3xhrOw45ss&good&0&10
+Banjo&-nG-wpQjj6I&good&0&10
+Accordion&0v6guMGfNSo&good&0&10
+Accordion&0XGHiumhpJk&good&3&9
+Accordion&5pKSeh4EVFM&good&0&3
+Accordion&3l4HqVEHCEs&good&0&10
+Accordion&5s-U1c1v1pc&good&1&7
+Accordion&1xp2bkdhYTE&good&0&10
+Accordion&5hExI3Kf6bw&good&0&10
+Accordion&3bdNfXk6LBw&good&0&10
+Accordion&3T78h81cfjc&good&0&10
+Accordion&-KTh-902ahg&good&0&10
+Accordion&3HALajB-U3A&good&5&9
+Accordion&0_wopBSgNhc&good&0&10
+Accordion&0Y1JH8PdHAA&good&0&10
+Accordion&1Mxp8x6oMLA&good&0&10
+Accordion&1Thqsodw3zI&good&0&10
+Accordion&0FA_XUfoJ_0&good&0&10
+Accordion&-LnO0gwFvTU&good&0&10
+Accordion&-1qyr-IzqKY&good&0&10
+Accordion&0N4aDYt8vmI&good&0&10
+Accordion&4dN9JkRUQeU&good&0&10
+Accordion&5cO9CHPsJw8&good&0&3
+Accordion&5e4u9ZWa8-A&good&0&10
+Accordion&-F53UmpWFVI&good&0&10
+Accordion&0jAkSpqFe4s&good&0&10
+Accordion&4vO7r5CrjMk&good&0&10
+Accordion&1oH-wBFq1W4&good&0&10
+Accordion&09C0k_WRvBs&good&2&10
+Accordion&5T65vrJoRpw&good&0&10
+Accordion&2pUReM-XxNM&good&0&10
+Accordion&2CEhA-Jp1ls&good&0&10
+Accordion&1BonlocdKno&good&0&10
+Accordion&5u9QqiB08Fg&good&0&10
+Accordion&0jInA3DyU5g&good&3&10
+Accordion&31hTm01pRWc&good&0&10
+Accordion&3TgynDX3F24&good&0&10
+Accordion&2NXBlEASDaE&good&0&10
+Accordion&0gdMrriLgq8&good&0&10
+Accordion&3lFpHntzsQk&good&8&10
+Accordion&0MGt-DTRk64&good&5&10
+Accordion&1WU5LO1iuAo&good&0&10
+Accordion&3VwTd49SD20&good&1&10
+Accordion&6C57bZcFspA&good&8&10
+Accordion&3dd6zwvS_T4&good&0&10
+Accordion&5bxBvNXyvMg&good&0&8
+Accordion&-wJ_UfBsiR0&good&0&10
+Accordion&3ci1kPrKql0&good&0&3
+Accordion&0AHmq7QIw84&good&0&10
+Accordion&5EFaFY2DC2g&good&0&10
+Accordion&2TkdxEYOXok&good&0&10
+Accordion&-KWCA1xtWMw&good&0&10
+Accordion&3bwwVglEWA0&good&6&10
+Accordion&654qgMz76aw&good&0&10
+Accordion&1A714kYO3-c&good&0&10
+Accordion&5msMrDJBc2k&good&0&10
+Accordion&4eA0l180YJ4&good&8&10
+Accordion&4Hg_lTiWAFU&good&0&10
+Accordion&48lpcyiTxKc&good&0&10
+Accordion&2Lb6weWw8zI&good&0&10
+Mandolin&-0SMihT1X90&good&0&10
+Mandolin&3PZNLyK_qDk&good&0&10
+Mandolin&3kA4083nS9Y&good&0&10
+Mandolin&2gh21ppLuWk&good&0&10
+Mandolin&3jER3bvcggI&good&0&10
+Mandolin&-ZBvew9X3Ns&good&0&6
+Mandolin&3IoG53iXgSY&good&0&10
+Mandolin&62AGEzbSDl8&good&0&10
+Mandolin&3_behQKsK4A&good&0&10
+Mandolin&7OYOdKAwfUY&good&0&10
+Mandolin&0JIRUKnBBSw&good&0&10
+Mandolin&7OVe6SsV6do&good&0&10
+Mandolin&4GEjlyAL09E&good&0&10
+Mandolin&022HkidFvBM&good&2&10
+Mandolin&-ttXM3IZWdw&good&0&10
+Mandolin&6hBBOM8wkzY&good&0&10
+Mandolin&5EMLPHVw-Lo&good&0&10
+Mandolin&7ydfkPYAdP0&good&0&10
+Mandolin&3yb8RCz-inc&good&0&10
+Mandolin&4Re2sksC_ko&good&0&10
+Mandolin&1h1Ldj0AIyY&good&0&10
+Mandolin&2vRtLDpWArQ&good&0&6
+Mandolin&8NfFipaUxIA&good&8&10
+Mandolin&43aE5Z0lSvk&good&0&10
+Mandolin&4KjRofnCO4Q&good&0&10
+Mandolin&1R41x5vaZrc&good&0&10
+Mandolin&7cxgLJ1Csy4&good&0&10
+Mandolin&519276Ov9DM&good&0&10
+Mandolin&2MImeCGPEYA&good&0&10
+Mandolin&1comymCkUOw&good&0&10
+Mandolin&1n7amzH3-1E&good&0&10
+Mandolin&3qJhvEuf5Dk&good&0&10
+Mandolin&2b01qjRiEH4&good&0&10
+Mandolin&2Fkh-PUx2SA&good&0&10
+Mandolin&4O4cWtwQ2dE&good&0&10
+Mandolin&3etiG7dVUnM&good&0&10
+Mandolin&29xIeTrEEiw&good&7&10
+Mandolin&1cmo1SGxJnc&good&0&10
+Mandolin&-_9pg2ryrx4&good&0&10
+Mandolin&07N2Oq2BT-c&good&0&10
+Mandolin&2pZsbtl-iW8&good&0&10
+Mandolin&3tsi7DKGrWQ&good&0&10
+Mandolin&5hwzGG2XdBc&good&0&10
+Mandolin&0gZb1vbQ7Dg&good&0&4
+Mandolin&0ZaqZ7fiYKU&good&0&10
+Mandolin&47fxC07DN8Y&good&0&10
+Mandolin&3s0QRMuXTnE&good&0&10
+Mandolin&7KcETZ7OImA&good&0&10
+Mandolin&76mwPlRcZ5k&good&0&10
+Mandolin&-MtoePIUMdk&good&0&10
+Mandolin&6UeJPCgnMIg&good&0&10
+Mandolin&0IklLP7_kBw&good&4&10
