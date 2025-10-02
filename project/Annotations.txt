@@ -1,0 +1,140 @@
+Category&VideoID&Quality&StartTime&EndTime
+Church bell&5wHd0VafUAA&good&0&10
+Church bell&Tc1822d78oA&good&0&10
+Church bell&e_5ngCwYckE&good&0&10
+Church bell&RUhOCu3LNXM&good&0&10
+Church bell&MH3m4AwEcRY&good&6&8
+Male speech, man speaking&0giAfYq9oVM&good&3&9
+Male speech, man speaking&0jr-YC7JdwQ&good&6&10
+Male speech, man speaking&-fLESpwoaCI&good&7&10
+Male speech, man speaking&-v9k87jYE0Q&good&7&9
+Male speech, man speaking&-dqRTbErvlU&good&7&10
+Bark&3jS8tWfLJxI&good&7&9
+Bark&E_1Asfq8it4&good&0&3
+Bark&6o8Iq_QBZoQ&good&5&10
+Bark&MpMwOWkg1u4&good&7&10
+Bark&JnvJwrYVeJA&good&6&10
+Fixed-wing aircraft, airplane&1Hdxp8W6IV0&good&0&10
+Fixed-wing aircraft, airplane&GqFSNyW1Iis&good&0&10
+Fixed-wing aircraft, airplane&-UX39TNCoJk&good&0&6
+Fixed-wing aircraft, airplane&1AfXFAf3trQ&good&0&10
+Fixed-wing aircraft, airplane&8q5l9_OSl_A&good&0&10
+Race car, auto racing&3NPJcISOvLc&good&7&10
+Race car, auto racing&-Y7b2SY8lgY&good&0&8
+Race car, auto racing&5WREYg7Oog8&good&0&10
+Race car, auto racing&1RQpv8AZQYk&good&3&10
+Race car, auto racing&1_EZv9lcy4I&good&6&10
+Female speech, woman speaking&-iTivTyfpDM&good&4&7
+Female speech, woman speaking&0roUiwd5-So&good&5&7
+Female speech, woman speaking&0iTtD8RHj_E&good&0&10
+Female speech, woman speaking&-Fk84HEl-7o&good&0&10
+Female speech, woman speaking&10WAJUeI3vo&good&0&10
+Helicopter&5_ChtfSQnVs&good&8&10
+Helicopter&E96pdA9hIPw&good&0&10
+Helicopter&5Ze_0ECLLnI&good&0&6
+Helicopter&1HOdVz725U0&good&0&10
+Helicopter&1uMyymBV_eU&good&0&10
+Violin, fiddle&-61v0b2F21A&good&0&10
+Violin, fiddle&-8t1Nj0WSag&good&0&10
+Violin, fiddle&-d8Q6gOeHws&good&1&10
+Violin, fiddle&090RykWGyM8&good&0&10
+Violin, fiddle&-1I7Ku2GAZo&good&0&10
+Flute&-UVOFRthq_c&good&0&10
+Flute&0fB1C972a9s&good&0&10
+Flute&-G4PtM_9GWY&good&0&10
+Flute&-_bm7VDAUo4&good&5&10
+Flute&1BXCEPe0x9Q&good&0&10
+Ukulele&-HRf0jsWypE&good&0&7
+Ukulele&19obIgE_LqM&good&0&10
+Ukulele&1CLOP18zemg&good&0&4
+Ukulele&1vu3rEPmUiA&good&0&10
+Ukulele&-NKHrtkWz_U&good&0&10
+Frying (food)&AIs4gx9RVTs&good&6&10
+Frying (food)&04jA_kRetJY&good&0&10
+Frying (food)&3e85HcbgUu4&good&0&10
+Frying (food)&APFTR5YK-X8&good&0&10
+Frying (food)&Acv5XdRQYUg&good&0&8
+Truck&-BCOY2XYUas&good&0&10
+Truck&-bpa6mTrhEE&good&0&10
+Truck&-GYwMQJmQEo&good&0&10
+Truck&-JJrKDsw16U&good&0&10
+Truck&-8IP6mErHSM&good&0&2
+Shofar&NF3M5beSlyM&good&0&10
+Shofar&fR1xYEILoPw&good&0&10
+Shofar&PORZmak0JQY&good&0&10
+Shofar&HucIQq6Aky0&good&6&8
+Shofar&vzUOlGTZpy8&good&0&10
+Motorcycle&0RGDINDHaQ8&good&0&10
+Motorcycle&-P7iW3WzNfc&good&0&10
+Motorcycle&03_6oCyepKU&good&0&10
+Motorcycle&-rCGeA7H8ig&good&0&10
+Motorcycle&0GO42Oh_vmA&good&0&10
+Acoustic guitar&-6WEyprpIdQ&good&0&5
+Acoustic guitar&-8E4IvhlJ3I&good&0&3
+Acoustic guitar&-D0zH6poZbY&good&0&10
+Acoustic guitar&-7rhcT3NNtY&good&0&10
+Acoustic guitar&-8opyoruJSE&good&0&10
+Train horn&7Ii3h-ogMEE&good&0&10
+Train horn&4ZHPpXmdG0g&good&0&10
+Train horn&-eVdi8PdMh4&good&0&10
+Train horn&-u9BxBNcrw4&good&0&10
+Train horn&-Oo5KT8cycI&good&0&10
+Clock&83dRnWywde8&good&0&10
+Clock&4oTkYH0wLq4&good&0&10
+Clock&U4nhmciONvk&good&0&10
+Clock&EZDqMetpnI0&good&0&10
+Clock&0brq4I0WAls&good&0&10
+Banjo&-W4EC8noDuw&good&0&10
+Banjo&3yoo27Wb02M&good&0&10
+Banjo&14ptT2dPCag&good&0&10
+Banjo&7PZl6hYrQGo&good&0&10
+Banjo&-nG-wpQjj6I&good&0&10
+Goat&3pb6aR0Y_-E&good&0&10
+Goat&8SvugCZ9Vkk&good&0&10
+Goat&97FmqI0hQGA&good&0&10
+Goat&8x3hZe2q2cE&good&7&9
+Goat&6xWdHhGJoUM&good&2&5
+Baby cry, infant cry&1f9QJVrgs7Y&good&2&10
+Baby cry, infant cry&-gk3LALyrZg&good&7&10
+Baby cry, infant cry&0D5CBzE1trY&good&0&2
+Baby cry, infant cry&73phKdahss8&good&0&10
+Baby cry, infant cry&2Cvw3f6g2c0&good&5&10
+Bus&0HBAshYFBCU&good&0&10
+Bus&1FguW6m0lwQ&good&3&6
+Bus&0sbkEsiPq6g&good&0&10
+Bus&20G6c9gIHug&good&2&10
+Bus&1l858z8JdmI&good&5&10
+Chainsaw&93C94T6TfhA&good&5&10
+Chainsaw&8WMRrXWeepA&good&0&10
+Chainsaw&8VbyyhCscVc&good&4&8
+Chainsaw&22fW30DrCU8&good&0&10
+Chainsaw&5IxlZtup57Y&good&5&10
+Cat&0kN-0Fd438w&good&2&4
+Cat&0LvT0CnBxJg&good&1&6
+Cat&-NrpfrEGq5w&good&0&10
+Cat&0gbDQgRMlR4&good&0&8
+Cat&07RqWEmSIzA&good&0&8
+Horse&28uKkF5kal0&good&8&10
+Horse&2CH-IEf1CCo&good&6&9
+Horse&-0TTFAArJ9k&good&0&10
+Horse&-PjURNLAvJk&good&0&6
+Horse&2GMcRVbcRlE&good&0&10
+Toilet flush&2tLgG0hmUpU&good&0&4
+Toilet flush&0suFvKAWJnU&good&0&6
+Toilet flush&7cgTsdhfn7s&good&5&8
+Toilet flush&1V4NpKTUooo&good&0&5
+Rodents, rats, mice&ByNj4TXWBEQ&good&0&4
+Rodents, rats, mice&1Y6VeYpbjTc&good&0&3
+Rodents, rats, mice&Do4yhF0qy2c&good&3&6
+Rodents, rats, mice&OAu1bLMPjDU&good&7&10
+Rodents, rats, mice&6vFGQG5S0sE&good&3&10
+Accordion&0v6guMGfNSo&good&0&10
+Accordion&0XGHiumhpJk&good&3&9
+Accordion&3lFpHntzsQk&good&8&10
+Accordion&5msMrDJBc2k&good&0&10
+Accordion&2Lb6weWw8zI&good&0&10
+Mandolin&-0SMihT1X90&good&0&10
+Mandolin&3PZNLyK_qDk&good&0&10
+Mandolin&1T80lR_imB4&good&1&10
+Mandolin&3OzTXUq0LF8&good&0&10
+Mandolin&0IklLP7_kBw&good&4&10
