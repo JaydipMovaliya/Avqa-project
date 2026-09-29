@@ -82,19 +82,19 @@ The reference is stronger on NSDR and SIR. Our SAR is higher, meaning fewer arte
 
 <!-- Add your images here, for example: -->
 <p>
-  <img src="project/results/fig6.1.png" alt="Heatmaps on AVE" width="300" height="200">
+  <img src="project/results/fig6.1.png" alt="Heatmaps on AVE" width="400" height="400">
 </p>
 <p>
-  <img src="project/results/fig6.2.png" alt="Heatmaps on AVE" width="300" height="200">
+  <img src="project/results/fig6.2.png" alt="Heatmaps on AVE" width="400" height="400">
 </p>
 <p>
-  <img src="project/results/appresult.png" alt="App interface" width="300"  height="200">
+  <img src="project/results/appresult.png" alt="App interface" width="400"  height="400">
 </p>
 <p>
-  <img src="project/results/edgecase1.png" alt="Edge cases" width="300" height="200">
+  <img src="project/results/edgecase1.png" alt="Edge cases" width="400" height="400">
 </p>
 <p>
-  <img src="project/results/edgecase2.png" alt="Edge cases" width="300" height="200">
+  <img src="project/results/edgecase2.png" alt="Edge cases" width="400" height="400">
 </p>
 
 Edge-case behaviour we tested:
