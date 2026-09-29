@@ -80,12 +80,12 @@ The reference is stronger on NSDR and SIR. Our SAR is higher, meaning fewer arte
 
 ## Example outputs
 
-<!-- Add your images here, for example:
-![Heatmaps on AVE](assets/heatmaps_musical.png)
-![Non-musical heatmaps](assets/heatmaps_nonmusical.png)
+<!-- Add your images here, for example: -->
+![Heatmaps on AVE](project/results/fig6.1.png)
+![Non-musical heatmaps](project/results/fig6.1.png)
 ![App interface](assets/app_interface.png)
 ![Edge cases](assets/edge_cases.png)
--->
+
 
 Edge-case behaviour we tested:
 
